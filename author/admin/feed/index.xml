@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; CrTr</title>
+	<atom:link href="http://127.0.0.1/wordpress/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Welcome to my WordPress site</description>
+	<lastBuildDate>Fri, 24 Dec 2021 14:46:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-profile2-32x32.png</url>
+	<title>admin &#8211; CrTr</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress</title>
+		<link>./../../../2021/12/08/wordpress/index.html</link>
+					<comments>./../../../2021/12/08/wordpress/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 00:11:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=100</guid>
+
+					<description><![CDATA[WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack<p class="more-link"><a href="./../../../2021/12/08/wordpress/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack and drop write some something down and done. But you still need to buy a domain and hosting before you can start with WordPress, there are also a way to install WP offline on local host machine that allow you to get start without domain and hosting but you need to find the way to get it online. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/08/wordpress/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CSS</title>
+		<link>./../../../2021/12/07/css/index.html</link>
+					<comments>./../../../2021/12/07/css/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:41:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=86</guid>
+
+					<description><![CDATA[CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage. CSS work as you<p class="more-link"><a href="./../../../2021/12/07/css/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">CSS work as you look on a element target a part of the HTML and then you use the code to change the target to be what ever you want.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/07/css/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HTML</title>
+		<link>./../../../2021/12/07/html/index.html</link>
+					<comments>./../../../2021/12/07/html/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:37:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=83</guid>
+
+					<description><![CDATA[Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together<p class="more-link"><a href="./../../../2021/12/07/html/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together to create something, and the way tag work to together is by working under each other.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="659" height="724" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1.png" alt="" class="wp-image-191" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-273x300.png 273w" sizes="(max-width: 659px) 100vw, 659px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/07/html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blender Animation</title>
+		<link>./../../../2021/12/07/79/index.html</link>
+					<comments>./../../../2021/12/07/79/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:31:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=79</guid>
+
+					<description><![CDATA[I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now. Here is an M829-APFSDS round fire from 120mm-L44]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now.</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="./../../../wp-content/uploads/2021/12/UHD-610-2.mp4"></video></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Here is an M829-APFSDS round fire from 120mm-L44</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/07/79/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="./../../../wp-content/uploads/2021/12/UHD-610-2.mp4" length="595572" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Blender Sculpturing</title>
+		<link>./../../../2021/12/07/blender-sculpturing/index.html</link>
+					<comments>./../../../2021/12/07/blender-sculpturing/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:21:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=76</guid>
+
+					<description><![CDATA[For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I think I need more<p class="more-link"><a href="./../../../2021/12/07/blender-sculpturing/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I think I need more practice.</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="369" src="./../../../wp-content/uploads/2021/12/0-1-2-1024x369.png" alt="" class="wp-image-77 size-full" srcset="./../../../wp-content/uploads/2021/12/0-1-2-1024x369.png 1024w, ./../../../wp-content/uploads/2021/12/0-1-2-300x108.png 300w, ./../../../wp-content/uploads/2021/12/0-1-2-768x276.png 768w, ./../../../wp-content/uploads/2021/12/0-1-2-1536x553.png 1536w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737.png 2048w, ./../../../wp-content/uploads/2021/12/0-1-2-2000x720.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Here is my sculpture model</p>
+</div></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/07/blender-sculpturing/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blender 3D Modeling</title>
+		<link>./../../../2021/12/07/blender/index.html</link>
+					<comments>./../../../2021/12/07/blender/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 06:41:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=23</guid>
+
+					<description><![CDATA[For blender I&#8217;m currently using blender 2.93.1 and I can turn a cube to any object as long as I can imagine it shape and size or using a blueprint to turn a 2D image in to a complete 3D object. Below is my progress in 3D modeling: This is my first try to creating<p class="more-link"><a href="./../../../2021/12/07/blender/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background">For blender I&#8217;m currently using blender 2.93.1 and I can turn a cube to any object as long as I can imagine it shape and size or using a blueprint to turn a 2D image in to a complete 3D object. Below is my progress in 3D modeling:</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g00-1-1024x576.jpg" alt="" class="wp-image-31 size-full" srcset="./../../../wp-content/uploads/2021/12/g00-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g00-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g00-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g00-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g00-1.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">This is my first try to creating a grass field</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g0-2-1024x576.jpg" alt="" class="wp-image-32 size-full" srcset="./../../../wp-content/uploads/2021/12/g0-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g0-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g0-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g0-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g0-2.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Second try</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g-1-1024x576.jpg" alt="" class="wp-image-33 size-full" srcset="./../../../wp-content/uploads/2021/12/g-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g-1.jpg 1728w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Third try looking good</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g3-1-1024x576.jpg" alt="" class="wp-image-34 size-full" srcset="./../../../wp-content/uploads/2021/12/g3-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g3-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g3-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g3-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g3-1.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Trying different angle</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g4-1024x576.jpg" alt="" class="wp-image-35 size-full" srcset="./../../../wp-content/uploads/2021/12/g4-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g4-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g4-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g4-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g4.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Adding some thing in the background</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g5-2-1024x576.jpg" alt="" class="wp-image-36 size-full" srcset="./../../../wp-content/uploads/2021/12/g5-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g5-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g5-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g5-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g5-2.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Editing the lighting</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g12-2-1024x576.jpg" alt="" class="wp-image-37 size-full" srcset="./../../../wp-content/uploads/2021/12/g12-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g12-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g12-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g12-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g12-2.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Adding more stuff to create a simple environment</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/se0-2-1024x576.png" alt="" class="wp-image-40 size-full" srcset="./../../../wp-content/uploads/2021/12/se0-2-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/se0-2-300x169.png 300w, ./../../../wp-content/uploads/2021/12/se0-2-768x432.png 768w, ./../../../wp-content/uploads/2021/12/se0-2-1536x864.png 1536w, ./../../../wp-content/uploads/2021/12/se0-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating an ocean </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/il1-1-1024x576.jpg" alt="" class="wp-image-42 size-full" srcset="./../../../wp-content/uploads/2021/12/il1-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/il1-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/il1-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/il1-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/il1-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating an island</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/c2.1-1024x576.jpg" alt="" class="wp-image-43 size-full" srcset="./../../../wp-content/uploads/2021/12/c2.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/c2.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/c2.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/c2.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/c2.1.jpg 1728w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating a cloud</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/trial-cloud-0-1024x576.jpg" alt="" class="wp-image-44 size-full" srcset="./../../../wp-content/uploads/2021/12/trial-cloud-0-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/trial-cloud-0-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/trial-cloud-0-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/trial-cloud-0-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/trial-cloud-0.jpg 1728w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/c2.2-1-1024x576.jpg" alt="" class="wp-image-138" srcset="./../../../wp-content/uploads/2021/12/c2.2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/c2.2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/c2.2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/c2.2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/c2.2-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/c2.2-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Second experiment using glow effect</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Experimental with using cloud</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2021/12/f0.0B-2-1024x1024.jpg" alt="" class="wp-image-46 size-full" srcset="./../../../wp-content/uploads/2021/12/f0.0B-2-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2021/12/f0.0B-2-300x300.jpg 300w, ./../../../wp-content/uploads/2021/12/f0.0B-2-150x150.jpg 150w, ./../../../wp-content/uploads/2021/12/f0.0B-2-768x768.jpg 768w, ./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536.jpg 1536w, ./../../../wp-content/uploads/2021/12/f0.0B-2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating trees</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/f0.1-1024x576.jpg" alt="" class="wp-image-47 size-full" srcset="./../../../wp-content/uploads/2021/12/f0.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/f0.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/f0.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/f0.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/f0.1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Simple forest</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/vl0.6-6-1024x576.jpg" alt="" class="wp-image-48 size-full" srcset="./../../../wp-content/uploads/2021/12/vl0.6-6-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/vl0.6-6-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/vl0.6-6-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/vl0.6-6-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/vl0.6-6-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/vl0.6-6-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating a simple sense</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g7-3-1024x576.jpg" alt="" class="wp-image-49 size-full" srcset="./../../../wp-content/uploads/2021/12/g7-3-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g7-3-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g7-3-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g7-3-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g7-3.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Mountain </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/mt3-3-3-1024x576.jpg" alt="" class="wp-image-50 size-full" srcset="./../../../wp-content/uploads/2021/12/mt3-3-3-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/mt3-3-3-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/mt3-3-3-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/mt3-3-3-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/mt3-3-3-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/mt3-3-3-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Crystal field</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.0-4-1024x576.png" alt="" class="wp-image-51 size-full" srcset="./../../../wp-content/uploads/2021/12/1.0-4-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/1.0-4-300x169.png 300w, ./../../../wp-content/uploads/2021/12/1.0-4-768x432.png 768w, ./../../../wp-content/uploads/2021/12/1.0-4-1536x864.png 1536w, ./../../../wp-content/uploads/2021/12/1.0-4-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/12/1.0-4-2000x1125.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">A-10 Warthog CAS aircraft</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.1-1-1024x576.png" alt="" class="wp-image-52 size-full" srcset="./../../../wp-content/uploads/2021/12/1.1-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/1.1-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/1.1-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/1.1-1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/12/1.1-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Mig-21</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.1-2-1024x576.jpg" alt="" class="wp-image-55 size-full" srcset="./../../../wp-content/uploads/2021/12/1.1-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/1.1-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/1.1-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/1.1-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/1.1-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/1.1-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Mig-29</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.1-1024x576.jpg" alt="" class="wp-image-58 size-full" srcset="./../../../wp-content/uploads/2021/12/1.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/1.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/1.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/1.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/1.1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/1.1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Su-75 Checkmate</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/2.0-1024x576.jpg" alt="" class="wp-image-60 size-full" srcset="./../../../wp-content/uploads/2021/12/2.0-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/2.0-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/2.0-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/2.0-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/2.0-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/2.0-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">S-3 Viking</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0-1024x576.jpg" alt="" class="wp-image-61 size-full" srcset="./../../../wp-content/uploads/2021/12/0-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/0-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Tu-22-M3 Backfire</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/untitled2-1-1024x576.jpg" alt="" class="wp-image-68 size-full" srcset="./../../../wp-content/uploads/2021/12/untitled2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/untitled2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/untitled2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/untitled2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/untitled2-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/untitled2-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.0-2-1024x576.jpg" alt="" class="wp-image-131" srcset="./../../../wp-content/uploads/2021/12/1.0-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/1.0-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/1.0-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/1.0-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/1.0-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/1.0-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An-71  Madcap with Su-75 Checkmate</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">An-71 Madcap</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-1024x576.jpg" alt="" class="wp-image-115 size-full" srcset="./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-1024x576.jpg" alt="" class="wp-image-117" srcset="./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FEP-1-EWAC</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">FEP-1-ACC From movie: Yukizake</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FK2-1024x576.jpg" alt="" class="wp-image-118 size-full" srcset="./../../../wp-content/uploads/2021/12/FK2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FK2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FK2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FK2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FK2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/FK2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Flip Knight System  From movie: Yukizake </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/rafe99-1-1024x576.jpg" alt="" class="wp-image-123 size-full" srcset="./../../../wp-content/uploads/2021/12/rafe99-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/rafe99-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/rafe99-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/rafe99-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/rafe99-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/TSX01-2-1024x576.jpg" alt="" class="wp-image-124" srcset="./../../../wp-content/uploads/2021/12/TSX01-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/TSX01-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/TSX01-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/TSX01-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/TSX01-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>TSX-1</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">FRX-99 Rafe an unman  recon/fighter aircraft From movie: Yukizake </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/mave2-2-1024x576.jpg" alt="" class="wp-image-127 size-full" srcset="./../../../wp-content/uploads/2021/12/mave2-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/mave2-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/mave2-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/mave2-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/mave2-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/mave2-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="672" src="./../../../wp-content/uploads/2021/12/2.352-1-1024x672.jpg" alt="" class="wp-image-128" srcset="./../../../wp-content/uploads/2021/12/2.352-1-1024x672.jpg 1024w, ./../../../wp-content/uploads/2021/12/2.352-1-300x197.jpg 300w, ./../../../wp-content/uploads/2021/12/2.352-1-768x504.jpg 768w, ./../../../wp-content/uploads/2021/12/2.352-1-1536x1008.jpg 1536w, ./../../../wp-content/uploads/2021/12/2.352-1.jpg 1758w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FFR-31-D-MR Super Sylph a predecessor of FFR-41</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">FFR-41-MR Mave  From movie: Yukizake </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="893" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-723.png" alt="" class="wp-image-71 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-723.png 893w, ./../../../wp-content/uploads/2021/12/Screenshot-723-300x178.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-723-768x457.png 768w" sizes="(max-width: 893px) 100vw, 893px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">And I currently working on modeling the Mig 25 the fastest interceptor of the cool war</p>
+</div></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/07/blender/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introduction</title>
+		<link>./../../../2021/12/04/hello-world/index.html</link>
+					<comments>./../../../2021/12/04/hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 04 Dec 2021 04:36:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress5.8. This is my first post. So let&#8217;s start with self introduction. My name is Cheav Rotharin, I&#8217;m 20 years old and currently I&#8217;m studying at AIC PP. Below is the program and skill that I had learned]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background">Welcome to WordPress5.8. This is my first post. So let&#8217;s start with self introduction.</p>
+
+
+
+<p>My name is Cheav Rotharin, I&#8217;m 20 years old and currently I&#8217;m studying at AIC PP.</p>
+
+
+
+<p>Below is the program and skill that I had learned</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="756" height="554" src="./../../../wp-content/uploads/2021/12/Screenshot-722.png" alt="" data-id="21" data-full-url="./../../../wp-content/uploads/2021/12/Screenshot-722.png" data-link="./../../../2021/12/04/hello-world/screenshot-722/index.html" class="wp-image-21" srcset="./../../../wp-content/uploads/2021/12/Screenshot-722.png 756w, ./../../../wp-content/uploads/2021/12/Screenshot-722-300x220.png 300w" sizes="(max-width: 756px) 100vw, 756px" /></figure></li></ul></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/04/hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
