@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<link rel="profile" href="//gmpg.org/xfn/11">
+<link rel="pingback" href="./../../../../xmlrpc.php">
+
+<title>WordPress5.8 on GitHub &#8211; CrTr</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//static.addtoany.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="CrTr &raquo; Feed" href="./../../../../feed/index.html">
+<link rel="alternate" type="application/rss+xml" title="CrTr &raquo; Comments Feed" href="./../../../../comments/feed/index.html">
+<link rel="alternate" type="application/rss+xml" title="CrTr &raquo; WordPress5.8 on GitHub Comments Feed" href="./feed/index.html">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":".\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./../../../../wp-includes/css/dist/block-library/style.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="thinkup-bootstrap-css" href="./../../../../wp-content/themes/melos/lib/extentions/bootstrap/css/bootstrap.min.css?ver=2.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="thinkup-style-css" href="./../../../../wp-content/themes/melos/style.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="melos-thinkup-style-creative-css" href="./../../../../wp-content/themes/melos-creative/style.css?ver=1.0.8" type="text/css" media="all">
+<link rel="stylesheet" id="thinkup-google-fonts-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="prettyPhoto-css" href="./../../../../wp-content/themes/melos/lib/extentions/prettyPhoto/css/prettyPhoto.css?ver=3.1.6" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./../../../../wp-includes/css/dashicons.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="./../../../../wp-content/themes/melos/lib/extentions/font-awesome/css/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="thinkup-shortcodes-css" href="./../../../../wp-content/themes/melos/styles/style-shortcodes.css?ver=1.3.10" type="text/css" media="all">
+<link rel="stylesheet" id="thinkup-responsive-css" href="./../../../../wp-content/themes/melos/styles/style-responsive.css?ver=1.3.10" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="./../../../../wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16" type="text/css" media="all">
+<script type="text/javascript" id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color="#2a2a2a";
+</script>
+<script type="text/javascript" async src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="./../../../../wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="./../../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" async src="./../../../../wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<link rel="https://api.w.org/" href="./../../../../wp-json/index.html">
+<link rel="alternate" type="application/json" href="./../../../../wp-json/wp/v2/posts/235/index.html">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../../../../xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../../../../wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.2">
+<link rel="canonical" href="./index.html">
+<link rel="shortlink" href="./../../../../index.html?p=235">
+<link rel="alternate" type="application/json+oembed" href="./../../../../wp-json/oembed/1.0/embed/index.html?url=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F">
+<link rel="alternate" type="text/xml+oembed" href="./../../../../wp-json/oembed/1.0/embed/index.html?url=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&#038;format=xml">
+<style type="text/css" id="custom-background-css">body.custom-background { background-color: #0a0a0a; background-image: url("./../../../../wp-content/uploads/2021/12/g7-3.jpg"); background-position: center center; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }</style>
+	<link rel="icon" href="./../../../../wp-content/uploads/2021/12/cropped-profile2-32x32.png" sizes="32x32">
+<link rel="icon" href="./../../../../wp-content/uploads/2021/12/cropped-profile2-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="./../../../../wp-content/uploads/2021/12/cropped-profile2-180x180.png">
+<meta name="msapplication-TileImage" content="./wp-content/uploads/2021/12/cropped-profile2-270x270.png">
+</head>
+
+<body class="post-template-default single single-post postid-235 single-format-standard custom-background wp-custom-logo layout-sidebar-none layout-responsive pre-header-style1 header-style1 scrollup-on">
+<div id="body-core" class="hfeed site">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<!-- .skip-link -->
+
+	<header>
+	<div id="site-header">
+
+					<div class="custom-header"><img src="./../../../../wp-content/uploads/2021/12/cropped-0.2.3-scaled-1.jpg" width="1600" height="433" alt=""></div>
+			
+		<div id="pre-header">
+		<div class="wrap-safari">
+		<div id="pre-header-core" class="main-navigation">
+  
+			
+			
+			
+		</div>
+		</div>
+		</div>
+		<!-- #pre-header -->
+
+				<div id="header">
+		<div id="header-core">
+
+			
+			<div id="logo">
+			<a href="./../../../../index.html" class="custom-logo-link" rel="home"><img width="2560" height="978" src="./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1.jpg" class="custom-logo" alt="CrTr" srcset="./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1.jpg 2560w, ./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1-300x115.jpg 300w, ./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1-1024x391.jpg 1024w, ./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1-768x293.jpg 768w, ./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1-1536x587.jpg 1536w, ./../../../../wp-content/uploads/2021/12/cropped-1.2-scaled-1-2048x782.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></a>			</div>
+
+			
+			<div id="header-links" class="main-navigation">
+			<div id="header-links-inner" class="header-links">
+
+				<ul class="menu">
+<li><a href="./../../../../index.html">Home</a></li>
+<li id="menu-item-2" class=""><a href="./../../../../sample-page/index.html"><span>Introduction</span></a></li>
+<li id="menu-item-3" class=""><a href="./../../../../privacy-policy/index.html"><span>Privacy Policy</span></a></li>
+</ul>
+				
+				<div id="header-search">
+<a><div class="fa fa-search"></div></a>	<form method="get" class="searchform" action="./" role="search">
+		<input type="text" class="search" name="s" value="" placeholder="Search">
+		<input type="submit" class="searchsubmit" name="submit" value="Search">
+	</form>
+</div>
+			</div>
+			</div>
+			<!-- #header-links .main-navigation -->
+ 	
+			<div id="header-nav"><a class="btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse" tabindex="0"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div>
+		</div>
+		</div>
+		<!-- #header -->
+
+		<div id="header-responsive"><div id="header-responsive-inner" class="responsive-links nav-collapse collapse"><ul>
+<li class="page_item page-item-2"><a href="./../../../../sample-page/index.html">Introduction</a></li>
+<li class="page_item page-item-3"><a href="./../../../../privacy-policy/index.html">Privacy Policy</a></li>
+</ul></div></div>
+		
+		<div id="intro" class="option1"><div class="wrap-safari"><div id="intro-core"><h1 class="page-title"><span>WordPress5.8 on GitHub</span></h1></div></div></div>
+		
+		
+		
+	</div>
+
+
+	</header>
+	<!-- header -->
+
+		
+	<div id="content">
+	<div id="content-core">
+
+		<div id="main">
+		<div id="main-core">
+			
+				
+		<article id="post-235" class="post-235 post type-post status-publish format-standard hentry category-pc category-website category-wordpress format-nomedia">
+
+				<header class="entry-header"><h3 class="post-title">WordPress5.8 on GitHub</h3>
+<div class="entry-meta">
+<span class="date"><a href="./index.html" title="WordPress5.8 on GitHub"><time datetime="2021-12-28T20:18:03+07:00"><span class="date-month">December 28, 2021</span></time></a></span><span class="author"><a href="./../../../../author/admin/index.html" title="View all posts by admin" rel="author">admin</a></span><span class="category"><a href="./../../../../category/pc/index.html" rel="category tag">PC</a>, <a href="./../../../../category/website/index.html" rel="category tag">Website</a>, <a href="./../../../../category/wordpress/index.html" rel="category tag">WordPress</a></span>
+</div>
+<div class="clearboth"></div></header><!-- .entry-header -->
+		<div class="entry-content">
+			
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Currently this website is hosting on <a href="https://github.com/">GitHub</a> for free, because GitHub is an opensource platform. </p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: The website is a <strong><em>static</em></strong> website and <strong><em>not </em></strong>a <strong><em>dynamic </em></strong>website, this can be use for experimental without spending money and to test out how hard WordPress is. Not recommended for Business or online store.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Below is the <s>not so</s> easy step for creating your own website without coding :</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step1</span></strong>: Install<strong><em> WordPress version 5.8</em></strong> in your local machine <strong><em>(offline)</em></strong>. <a href="https://bitnami.com/stack/wordpress/installer">Here is the link for the download</a>, and I recommend you to watch the <strong><em>tutorial</em></strong> first before doing the installation because it <strong><em>will help you</em></strong> understand the process, and <a href="https://www.youtube.com/watch?v=wWVbiGc6XKk">here is the link of tutorial</a>.</p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: Please save the <strong><em>Username and Password</em></strong></p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step2</span></strong>: Install Simply Static on you webpage, this plugin allow you to generate and download static HTML file that we want for you website<strong><em> don&#8217;t worry no coding involve here, you don&#8217;t need to learn HTML</em></strong>. Here is how you install it =&gt; </p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:73% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-760-1-1024x576.png" alt="" class="wp-image-240 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-760-1-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-760-1-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-760-1-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-760-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">First go to WordPress</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="79" src="./../../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79.png" alt="" class="wp-image-244 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-763-1-300x23.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-763-1-768x60.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-763-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Next type <strong><em>login</em></strong> behind wordpress/</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:59% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-764-1024x576.png" alt="" class="wp-image-245 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-764-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-764-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-764-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-764.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Login with <strong><em>Username and Password</em></strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-765-1024x576.png" alt="" class="wp-image-246 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-765-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-765-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-765-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-765.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Hover over <strong><em>Plugin </em></strong>and click <strong><em>Add New</em></strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:64% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-766-1024x576.png" alt="" class="wp-image-247 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-766-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-766-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-766-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-766.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Search for <strong><em>Simply Static</em></strong>, <strong><em>install </em></strong>and <strong><em>activate </em></strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:62% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-769-1024x576.png" alt="" class="wp-image-251 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-769-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-769-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-769-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-769.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Hover over Simply Static click <strong><em>Setting, </em></strong>Under general uncheck everything except <strong><em>these2 </em></strong>and <strong><em>SAVE CHANGES</em></strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:61% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-767-1024x576.png" alt="" class="wp-image-249 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-767-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-767-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-767-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-767.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Finally go to <strong><em>Simply Static</em></strong> and <strong><em>Generate Static File</em></strong>s wait for loading, <strong><em>Click on click here to download</em></strong></p>
+</div>
+</div>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: Internet connection is required for the download and don&#8217;t forget to extract the file</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step3</span></strong>: Hosting, you need a GitHub account and you can create it for free and <a href="https://www.youtube.com/watch?v=tTvLl138ky4">here is how you do it</a>. After login to your account create a Repositories=&gt;</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:69% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-770-1024x576.png" alt="" class="wp-image-255 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-770-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-770-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-770-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-770.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Click on The <strong><em>logo</em></strong> and click <strong><em>New</em></strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:61% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../../wp-content/uploads/2021/12/Screenshot-772-1024x576.png" alt="" class="wp-image-256 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-772-1024x576.png 1024w, ./../../../../wp-content/uploads/2021/12/Screenshot-772-300x169.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-772-768x432.png 768w, ./../../../../wp-content/uploads/2021/12/Screenshot-772.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Fill the <strong><em>Information</em></strong>, check <strong><em>Public</em></strong> and <strong><em>Add a README file</em></strong>, Create repository</p>
+</div>
+</div>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: Name and Public is important</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step4A</span></strong>: <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">Here is how it work</a>. Then you can <strong><em><a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">clone the repository</a></em></strong> to your local machine, where we can <strong><em>upload</em></strong> your <strong><em>Static HTML file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account.</p>
+
+
+
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Here how you push </p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:59% auto">
+<figure class="wp-block-media-text__media"><img loading="lazy" width="955" height="655" src="./../../../../wp-content/uploads/2021/12/Screenshot-773-2.png" alt="" class="wp-image-306 size-full" srcset="./../../../../wp-content/uploads/2021/12/Screenshot-773-2.png 955w, ./../../../../wp-content/uploads/2021/12/Screenshot-773-2-300x206.png 300w, ./../../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527.png 768w" sizes="(max-width: 955px) 100vw, 955px"></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Open <strong><em>GitHub desktop </em></strong>and click on <strong><em>Show in Explorer</em></strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile">
+<figure class="wp-block-media-text__media"></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"></p>
+</div>
+</div>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step4B</span></strong>:  <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">Here is how it work</a>. Then you can <strong><em>create the repository</em></strong> in your local machine, where you can <strong><em>upload</em></strong> your <strong><em>Static file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account. </p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: If you go with <strong><em>Step4B </em></strong>then you can <strong><em>skip Step3</em></strong>.</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step5/Final step</span></strong>: after push (upload) the Static file success, you need to go the  <strong><em>repository</em></strong> and then setting &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;</p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: After that <strong><em>wait for a few</em></strong> minute and when the link is <strong><em>green </em></strong>click on it to see if it work. For custorm domain mean you buy domain for use and <strong><em>you don&#8217;t need it</em></strong>. Again this is a toturial for WordPress5.8.</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_20 addtoany_list" data-a2a-url="./2021/12/28/wordpress-on-github/" data-a2a-title="WordPress5.8 on GitHub">
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a>
+</div></div>					</div>
+<!-- .entry-content -->
+
+		</article>
+
+		<div class="clearboth"></div>
+				
+					<nav role="navigation" id="nav-below">
+	
+		<div class="nav-previous"><a href="./../photoshop-and-gimp/index.html" rel="prev"><span class="meta-icon"><i class="fa fa-angle-left fa-lg"></i></span><span class="meta-nav">Previous</span></a></div>		
+	
+	</nav><!-- #nav-below -->
+	
+				
+			
+
+		</div>
+<!-- #main-core -->
+		</div>
+<!-- #main -->
+			</div>
+	</div>
+<!-- #content -->
+
+	<footer>
+		<div id="footer"><div id="footer-core" class="option3">
+<div id="footer-col1" class="widget-area">
+<aside class="widget widget_block widget_text">
+<p>Hello World</p>
+</aside><aside class="widget widget_block widget_text">
+<p>WordPress5.8+GitHub</p>
+</aside>
+</div>
+<div id="footer-col2" class="widget-area">
+<aside class="widget widget_block widget_text">
+<p>Personal Website</p>
+</aside><aside class="widget widget_block widget_text">
+<p>Created by Cheav Rotharin</p>
+</aside>
+</div>
+<div id="footer-col3" class="widget-area">
+<aside class="widget widget_block widget_text">
+<p>Contact</p>
+</aside><aside class="widget widget_block widget_text">
+<p>cheavrotharin@gmail.com</p>
+</aside>
+</div>
+</div></div>
+<!-- #footer -->		
+		<div id="sub-footer">
+		<div id="sub-footer-core">
+		
+			<div class="copyright">
+			Theme by <a href="https://www.thinkupthemes.com/" target="_blank">Think Up Themes Ltd</a>. Powered by <a href="https://www.wordpress.org/" target="_blank">WordPress</a>.			</div>
+			<!-- .copyright -->
+
+						<!-- #footer-menu -->
+
+									
+		</div>
+		</div>
+	</footer><!-- footer -->
+
+</div>
+<!-- #body-core -->
+
+<script type="text/javascript" src="./../../../../wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" src="./../../../../wp-content/themes/melos/lib/extentions/prettyPhoto/js/jquery.prettyPhoto.js?ver=3.1.6" id="prettyPhoto-js"></script>
+<script type="text/javascript" src="./../../../../wp-content/themes/melos/lib/scripts/plugins/scrollup/jquery.scrollUp.min.js?ver=2.4.1" id="jquery-scrollup-js"></script>
+<script type="text/javascript" src="./../../../../wp-content/themes/melos/lib/extentions/bootstrap/js/bootstrap.js?ver=2.3.2" id="thinkup-bootstrap-js"></script>
+<script type="text/javascript" src="./../../../../wp-content/themes/melos/lib/scripts/main-frontend.js?ver=1.3.10" id="thinkup-frontend-js"></script>
+<script type="text/javascript" src="./../../../../wp-content/themes/melos/lib/scripts/plugins/ResponsiveSlides/responsiveslides.min.js?ver=1.54" id="responsiveslides-js"></script>
+<script type="text/javascript" src="./../../../../wp-content/themes/melos/lib/scripts/plugins/ResponsiveSlides/responsiveslides-call.js?ver=1.3.10" id="thinkup-responsiveslides-js"></script>
+<script type="text/javascript" src="./../../../../wp-includes/js/wp-embed.min.js?ver=5.8.2" id="wp-embed-js"></script>
+
+</body>
+</html>

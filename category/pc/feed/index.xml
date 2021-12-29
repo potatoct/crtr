@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PC &#8211; CrTr</title>
+	<atom:link href="http://127.0.0.1/wordpress/category/pc/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Welcome to my WordPress site</description>
+	<lastBuildDate>Wed, 29 Dec 2021 00:29:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/12/cropped-profile2-32x32.png</url>
+	<title>PC &#8211; CrTr</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>WordPress5.8 on GitHub</title>
+		<link>./../../../2021/12/28/wordpress-on-github/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 13:18:03 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=235</guid>
+
+					<description><![CDATA[Currently this website is hosting on GitHub for free, because GitHub is an opensource platform. Notice: The website is a static website and not a dynamic website, this can be use for experimental without spending money and to test out how hard WordPress is. Not recommended for Business or online store. Below is the not<p class="more-link"><a href="./../../../2021/12/28/wordpress-on-github/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Currently this website is hosting on <a href="https://github.com/">GitHub</a> for free, because GitHub is an opensource platform. </p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: The website is a <strong><em>static</em></strong> website and <strong><em>not </em></strong>a <strong><em>dynamic </em></strong>website, this can be use for experimental without spending money and to test out how hard WordPress is. Not recommended for Business or online store.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Below is the <s>not so</s> easy step for creating your own website without coding :</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step1</span></strong>: Install<strong><em> WordPress version 5.8</em></strong> in your local machine <strong><em>(offline)</em></strong>. <a href="https://bitnami.com/stack/wordpress/installer">Here is the link for the download</a>, and I recommend you to watch the <strong><em>tutorial</em></strong> first before doing the installation because it <strong><em>will help you</em></strong> understand the process, and <a href="https://www.youtube.com/watch?v=wWVbiGc6XKk">here is the link of tutorial</a>.</p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: Please save the <strong><em>Username and Password</em></strong></p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step2</span></strong>: Install Simply Static on you webpage, this plugin allow you to generate and download static HTML file that we want for you website<strong><em> don&#8217;t worry no coding involve here, you don&#8217;t need to learn HTML</em></strong>. Here is how you install it =&gt; </p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:73% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1024x576.png" alt="" class="wp-image-240 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">First go to WordPress</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79.png" alt="" class="wp-image-244 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-300x23.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-768x60.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Next type <strong><em>login</em></strong> behind wordpress/</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:59% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576.png" alt="" class="wp-image-245 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-764-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-764-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-764.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Login with <strong><em>Username and Password</em></strong></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576.png" alt="" class="wp-image-246 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-765-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-765-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-765.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Hover over <strong><em>Plugin </em></strong>and click <strong><em>Add New</em></strong></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:64% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576.png" alt="" class="wp-image-247 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-766-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-766-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-766.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Search for <strong><em>Simply Static</em></strong>, <strong><em>install </em></strong>and <strong><em>activate </em></strong></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:62% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576.png" alt="" class="wp-image-251 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-769-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-769-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-769.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Hover over Simply Static click <strong><em>Setting, </em></strong>Under general uncheck everything except <strong><em>these2 </em></strong>and <strong><em>SAVE CHANGES</em></strong></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:61% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576.png" alt="" class="wp-image-249 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-767-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-767-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-767.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Finally go to <strong><em>Simply Static</em></strong> and <strong><em>Generate Static File</em></strong>s wait for loading, <strong><em>Click on click here to download</em></strong></p>
+</div></div>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: Internet connection is required for the download and don&#8217;t forget to extract the file</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step3</span></strong>: Hosting, you need a GitHub account and you can create it for free and <a href="https://www.youtube.com/watch?v=tTvLl138ky4">here is how you do it</a>. After login to your account create a Repositories=&gt;</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:69% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-770-1024x576.png" alt="" class="wp-image-255 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-770-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-770-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-770-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-770.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Click on The <strong><em>logo</em></strong> and click <strong><em>New</em></strong></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:61% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576.png" alt="" class="wp-image-256 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-772-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-772-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-772.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Fill the <strong><em>Information</em></strong>, check <strong><em>Public</em></strong> and <strong><em>Add a README file</em></strong>, Create repository</p>
+</div></div>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: Name and Public is important</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step4A</span></strong>: <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">Here is how it work</a>. Then you can <strong><em><a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">clone the repository</a></em></strong> to your local machine, where we can <strong><em>upload</em></strong> your <strong><em>Static HTML file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account.</p>
+
+
+
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Here how you push </p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:59% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="955" height="655" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2.png" alt="" class="wp-image-306 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2.png 955w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-300x206.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527.png 768w" sizes="(max-width: 955px) 100vw, 955px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Open <strong><em>GitHub desktop </em></strong>and click on <strong><em>Show in Explorer</em></strong></p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"></p>
+</div></div>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step4B</span></strong>:  <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">Here is how it work</a>. Then you can <strong><em>create the repository</em></strong> in your local machine, where you can <strong><em>upload</em></strong> your <strong><em>Static file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account. </p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: If you go with <strong><em>Step4B </em></strong>then you can <strong><em>skip Step3</em></strong>.</p>
+
+
+
+<p class="has-drop-cap has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step5/Final step</span></strong>: after push (upload) the Static file success, you need to go the  <strong><em>repository</em></strong> and then setting &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;</p>
+
+
+
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: After that <strong><em>wait for a few</em></strong> minute and when the link is <strong><em>green </em></strong>click on it to see if it work. For custorm domain mean you buy domain for use and <strong><em>you don&#8217;t need it</em></strong>. Again this is a toturial for WordPress5.8.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&amp;linkname=WordPress5.8%20on%20GitHub" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fwordpress-on-github%2F&#038;title=WordPress5.8%20on%20GitHub" data-a2a-url="./../../../2021/12/28/wordpress-on-github/index.html" data-a2a-title="WordPress5.8 on GitHub"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Photoshop and Gimp</title>
+		<link>./../../../2021/12/28/photoshop-and-gimp/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 07:25:49 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=88</guid>
+
+					<description><![CDATA[Photoshop and Gimp are image editor program with similar capability. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how<p class="more-link"><a href="./../../../2021/12/28/photoshop-and-gimp/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Photoshop and Gimp are image editor program with similar capability. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how they work is a complete different story.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Photoshop%20and%20Gimp" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&#038;title=Photoshop%20and%20Gimp" data-a2a-url="./../../../2021/12/28/photoshop-and-gimp/index.html" data-a2a-title="Photoshop and Gimp"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Model</title>
+		<link>./../../../2021/12/28/new-model/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2021 07:04:50 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Blender]]></category>
+		<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=203</guid>
+
+					<description><![CDATA[The latest project is finish and below is the rendered image of the MIG-25 Foxbat MIG-25 Foxbat]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">The latest project is finish and below is the rendered image of the MIG-25 Foxbat</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2.2-8-1024x576.jpg" alt="" class="wp-image-221 size-full" srcset="./../../../wp-content/uploads/2021/12/0.2.2-8-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2.2-8-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2.2-8-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2.2-8-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2.2-8-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size"> MIG-25 Foxbat </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.1-1-1024x576.jpg" alt="" class="wp-image-206 size-full" srcset="./../../../wp-content/uploads/2021/12/0.1-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.1-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.1-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.1-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.1-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2.1-1024x576.jpg" alt="" class="wp-image-208" srcset="./../../../wp-content/uploads/2021/12/0.2.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2.1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2-1-1024x576.jpg" alt="" class="wp-image-207" srcset="./../../../wp-content/uploads/2021/12/0.2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2-1-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">These are the other image before the final sense </p>
+</div></div>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F28%2Fnew-model%2F&amp;linkname=New%20Model" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fnew-model%2F&#038;title=New%20Model" data-a2a-url="./../../../2021/12/28/new-model/index.html" data-a2a-title="New Model"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress</title>
+		<link>./../../../2021/12/08/wordpress/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 00:11:09 +0000</pubDate>
+				<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=100</guid>
+
+					<description><![CDATA[WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack<p class="more-link"><a href="./../../../2021/12/08/wordpress/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack and drop write some something down and done. But you still need to buy a domain and hosting before you can start with WordPress, there are also a way to install WP offline on local host machine that allow you to get start without domain and hosting but you need to find the way to get it online. </p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F08%2Fwordpress%2F&amp;linkname=WordPress" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F08%2Fwordpress%2F&#038;title=WordPress" data-a2a-url="./../../../2021/12/08/wordpress/index.html" data-a2a-title="WordPress"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CSS</title>
+		<link>./../../../2021/12/07/css/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:41:57 +0000</pubDate>
+				<category><![CDATA[Computer Language]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=86</guid>
+
+					<description><![CDATA[CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage. CSS work as you<p class="more-link"><a href="./../../../2021/12/07/css/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">CSS work as you look on a element target a part of the HTML and then you use the code to change the target to be what ever you want.</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F07%2Fcss%2F&amp;linkname=CSS" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fcss%2F&#038;title=CSS" data-a2a-url="./../../../2021/12/07/css/index.html" data-a2a-title="CSS"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HTML</title>
+		<link>./../../../2021/12/07/html/index.html</link>
+					<comments>./../../../2021/12/07/html/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:37:22 +0000</pubDate>
+				<category><![CDATA[Computer Language]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=83</guid>
+
+					<description><![CDATA[Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together<p class="more-link"><a href="./../../../2021/12/07/html/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together to create something, and the way tag work to together is by working under each other.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="659" height="724" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1.png" alt="" class="wp-image-191" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-273x300.png 273w" sizes="(max-width: 659px) 100vw, 659px" /></figure>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fhtml%2F&#038;title=HTML" data-a2a-url="./../../../2021/12/07/html/index.html" data-a2a-title="HTML"></a></p>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/12/07/html/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blender Animation</title>
+		<link>./../../../2021/12/07/79/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:31:19 +0000</pubDate>
+				<category><![CDATA[Blender]]></category>
+		<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=79</guid>
+
+					<description><![CDATA[I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now. Here is an M829-APFSDS round fire from 120mm-L44]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now.</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="./../../../wp-content/uploads/2021/12/UHD-610-2.mp4"></video></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Here is an M829-APFSDS round fire from 120mm-L44</p>
+</div></div>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F07%2F79%2F&amp;linkname=Blender%20Animation" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2F79%2F&#038;title=Blender%20Animation" data-a2a-url="./../../../2021/12/07/79/index.html" data-a2a-title="Blender Animation"></a></p>]]></content:encoded>
+					
+		
+		<enclosure url="./../../../wp-content/uploads/2021/12/UHD-610-2.mp4" length="595572" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Blender Sculpturing</title>
+		<link>./../../../2021/12/07/blender-sculpturing/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 13:21:22 +0000</pubDate>
+				<category><![CDATA[Blender]]></category>
+		<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=76</guid>
+
+					<description><![CDATA[For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I think I need more<p class="more-link"><a href="./../../../2021/12/07/blender-sculpturing/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I think I need more practice.</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="369" src="./../../../wp-content/uploads/2021/12/0-1-2-1024x369.png" alt="" class="wp-image-77 size-full" srcset="./../../../wp-content/uploads/2021/12/0-1-2-1024x369.png 1024w, ./../../../wp-content/uploads/2021/12/0-1-2-300x108.png 300w, ./../../../wp-content/uploads/2021/12/0-1-2-768x276.png 768w, ./../../../wp-content/uploads/2021/12/0-1-2-1536x553.png 1536w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737.png 2048w, ./../../../wp-content/uploads/2021/12/0-1-2-2000x720.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Here is my sculpture model</p>
+</div></div>
+
+
+
+<p></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&amp;linkname=Blender%20Sculpturing" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fblender-sculpturing%2F&#038;title=Blender%20Sculpturing" data-a2a-url="./../../../2021/12/07/blender-sculpturing/index.html" data-a2a-title="Blender Sculpturing"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Blender 3D Modeling</title>
+		<link>./../../../2021/12/07/blender/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Dec 2021 06:41:48 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Blender]]></category>
+		<category><![CDATA[PC]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=23</guid>
+
+					<description><![CDATA[For blender I&#8217;m currently using blender 2.93.1 and I can turn a cube to any object as long as I can imagine it shape and size or using a blueprint to turn a 2D image in to a complete 3D object. Below is my progress in 3D modeling: This is my first try to creating<p class="more-link"><a href="./../../../2021/12/07/blender/index.html" class="themebutton">Read More</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">For blender I&#8217;m currently using blender 2.93.1 and I can turn a cube to any object as long as I can imagine it shape and size or using a blueprint to turn a 2D image in to a complete 3D object. Below is my progress in 3D modeling:</p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g00-1-1024x576.jpg" alt="" class="wp-image-31 size-full" srcset="./../../../wp-content/uploads/2021/12/g00-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g00-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g00-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g00-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g00-1.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">This is my first try to creating a grass field</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g0-2-1024x576.jpg" alt="" class="wp-image-32 size-full" srcset="./../../../wp-content/uploads/2021/12/g0-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g0-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g0-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g0-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g0-2.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Second try</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g-1-1024x576.jpg" alt="" class="wp-image-33 size-full" srcset="./../../../wp-content/uploads/2021/12/g-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g-1.jpg 1728w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Third try looking good</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g3-1-1024x576.jpg" alt="" class="wp-image-34 size-full" srcset="./../../../wp-content/uploads/2021/12/g3-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g3-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g3-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g3-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g3-1.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Trying different angle</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g4-1024x576.jpg" alt="" class="wp-image-35 size-full" srcset="./../../../wp-content/uploads/2021/12/g4-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g4-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g4-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g4-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g4.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Adding some thing in the background</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g5-2-1024x576.jpg" alt="" class="wp-image-36 size-full" srcset="./../../../wp-content/uploads/2021/12/g5-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g5-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g5-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g5-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g5-2.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Editing the lighting</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g12-2-1024x576.jpg" alt="" class="wp-image-37 size-full" srcset="./../../../wp-content/uploads/2021/12/g12-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g12-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g12-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g12-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g12-2.jpg 1824w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Adding more stuff to create a simple environment</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/se0-2-1024x576.png" alt="" class="wp-image-40 size-full" srcset="./../../../wp-content/uploads/2021/12/se0-2-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/se0-2-300x169.png 300w, ./../../../wp-content/uploads/2021/12/se0-2-768x432.png 768w, ./../../../wp-content/uploads/2021/12/se0-2-1536x864.png 1536w, ./../../../wp-content/uploads/2021/12/se0-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating an ocean </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/il1-1-1024x576.jpg" alt="" class="wp-image-42 size-full" srcset="./../../../wp-content/uploads/2021/12/il1-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/il1-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/il1-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/il1-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/il1-1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating an island</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/c2.1-1024x576.jpg" alt="" class="wp-image-43 size-full" srcset="./../../../wp-content/uploads/2021/12/c2.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/c2.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/c2.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/c2.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/c2.1.jpg 1728w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating a cloud</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/trial-cloud-0-1024x576.jpg" alt="" class="wp-image-44 size-full" srcset="./../../../wp-content/uploads/2021/12/trial-cloud-0-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/trial-cloud-0-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/trial-cloud-0-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/trial-cloud-0-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/trial-cloud-0.jpg 1728w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large is-style-default"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/c2.2-1-1024x576.jpg" alt="" class="wp-image-138" srcset="./../../../wp-content/uploads/2021/12/c2.2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/c2.2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/c2.2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/c2.2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/c2.2-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/c2.2-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Second experiment using glow effect</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Experimental with using cloud</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2021/12/f0.0B-2-1024x1024.jpg" alt="" class="wp-image-46 size-full" srcset="./../../../wp-content/uploads/2021/12/f0.0B-2-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2021/12/f0.0B-2-300x300.jpg 300w, ./../../../wp-content/uploads/2021/12/f0.0B-2-150x150.jpg 150w, ./../../../wp-content/uploads/2021/12/f0.0B-2-768x768.jpg 768w, ./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536.jpg 1536w, ./../../../wp-content/uploads/2021/12/f0.0B-2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating trees</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/f0.1-1024x576.jpg" alt="" class="wp-image-47 size-full" srcset="./../../../wp-content/uploads/2021/12/f0.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/f0.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/f0.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/f0.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/f0.1.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Simple forest</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/vl0.6-6-1024x576.jpg" alt="" class="wp-image-48 size-full" srcset="./../../../wp-content/uploads/2021/12/vl0.6-6-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/vl0.6-6-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/vl0.6-6-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/vl0.6-6-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/vl0.6-6-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/vl0.6-6-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Creating a simple sense</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g7-3-1024x576.jpg" alt="" class="wp-image-49 size-full" srcset="./../../../wp-content/uploads/2021/12/g7-3-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g7-3-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g7-3-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g7-3-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/g7-3.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Mountain </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/mt3-3-3-1024x576.jpg" alt="" class="wp-image-50 size-full" srcset="./../../../wp-content/uploads/2021/12/mt3-3-3-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/mt3-3-3-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/mt3-3-3-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/mt3-3-3-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/mt3-3-3-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/mt3-3-3-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Crystal field</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.0-4-1024x576.png" alt="" class="wp-image-51 size-full" srcset="./../../../wp-content/uploads/2021/12/1.0-4-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/1.0-4-300x169.png 300w, ./../../../wp-content/uploads/2021/12/1.0-4-768x432.png 768w, ./../../../wp-content/uploads/2021/12/1.0-4-1536x864.png 1536w, ./../../../wp-content/uploads/2021/12/1.0-4-2048x1152.png 2048w, ./../../../wp-content/uploads/2021/12/1.0-4-2000x1125.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">A-10 Warthog CAS aircraft</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.1-1-1024x576.png" alt="" class="wp-image-52 size-full" srcset="./../../../wp-content/uploads/2021/12/1.1-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/1.1-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/1.1-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/1.1-1-1536x864.png 1536w, ./../../../wp-content/uploads/2021/12/1.1-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Mig-21</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.1-2-1024x576.jpg" alt="" class="wp-image-55 size-full" srcset="./../../../wp-content/uploads/2021/12/1.1-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/1.1-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/1.1-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/1.1-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/1.1-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/1.1-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Mig-29</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.1-1024x576.jpg" alt="" class="wp-image-58 size-full" srcset="./../../../wp-content/uploads/2021/12/1.1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/1.1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/1.1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/1.1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/1.1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/1.1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Su-75 Checkmate</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/2.0-1024x576.jpg" alt="" class="wp-image-60 size-full" srcset="./../../../wp-content/uploads/2021/12/2.0-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/2.0-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/2.0-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/2.0-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/2.0-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/2.0-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">S-3 Viking</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0-1024x576.jpg" alt="" class="wp-image-61 size-full" srcset="./../../../wp-content/uploads/2021/12/0-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/0-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Tu-22-M3 Backfire</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/untitled2-1-1024x576.jpg" alt="" class="wp-image-68 size-full" srcset="./../../../wp-content/uploads/2021/12/untitled2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/untitled2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/untitled2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/untitled2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/untitled2-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/untitled2-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/1.0-2-1024x576.jpg" alt="" class="wp-image-131" srcset="./../../../wp-content/uploads/2021/12/1.0-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/1.0-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/1.0-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/1.0-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/1.0-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/1.0-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An-71  Madcap with Su-75 Checkmate</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">An-71 Madcap</p>
+</div></div>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-1024x576.jpg" alt="" class="wp-image-115 size-full" srcset="./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/FEP-1-ACC-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-1024x576.jpg" alt="" class="wp-image-117" srcset="./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/FEP-1-EWAC-2-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FEP-1-EWAC</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">FEP-1-ACC From movie: Yukizake</p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/FK2-1024x576.jpg" alt="" class="wp-image-118 size-full" srcset="./../../../wp-content/uploads/2021/12/FK2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/FK2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/FK2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/FK2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/FK2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/FK2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Flip Knight System  From movie: Yukizake </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/rafe99-1-1024x576.jpg" alt="" class="wp-image-123 size-full" srcset="./../../../wp-content/uploads/2021/12/rafe99-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/rafe99-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/rafe99-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/rafe99-1-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/rafe99-1-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/rafe99-1-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/TSX01-2-1024x576.jpg" alt="" class="wp-image-124" srcset="./../../../wp-content/uploads/2021/12/TSX01-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/TSX01-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/TSX01-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/TSX01-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/TSX01-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/TSX01-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>TSX-1</figcaption></figure>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">FRX-99 Rafe an unman  recon/fighter aircraft From movie: Yukizake </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/mave2-2-1024x576.jpg" alt="" class="wp-image-127 size-full" srcset="./../../../wp-content/uploads/2021/12/mave2-2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/mave2-2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/mave2-2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/mave2-2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/mave2-2-2048x1152.jpg 2048w, ./../../../wp-content/uploads/2021/12/mave2-2-2000x1125.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="672" src="./../../../wp-content/uploads/2021/12/2.352-1-1024x672.jpg" alt="" class="wp-image-128" srcset="./../../../wp-content/uploads/2021/12/2.352-1-1024x672.jpg 1024w, ./../../../wp-content/uploads/2021/12/2.352-1-300x197.jpg 300w, ./../../../wp-content/uploads/2021/12/2.352-1-768x504.jpg 768w, ./../../../wp-content/uploads/2021/12/2.352-1-1536x1008.jpg 1536w, ./../../../wp-content/uploads/2021/12/2.352-1.jpg 1758w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>FFR-31-D-MR Super Sylph a predecessor of FFR-41</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">FFR-41-MR Mave  From movie: Yukizake </p>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="893" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-723.png" alt="" class="wp-image-71 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-723.png 893w, ./../../../wp-content/uploads/2021/12/Screenshot-723-300x178.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-723-768x457.png 768w" sizes="(max-width: 893px) 100vw, 893px" /></figure><div class="wp-block-media-text__content">
+<p class="has-text-align-center has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">And I currently working on modeling the Mig 25 the fastest interceptor of the cool war</p>
+</div></div>
+
+
+
+<p></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F07%2Fblender%2F&amp;linkname=Blender%203D%20Modeling" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fblender%2F&#038;title=Blender%203D%20Modeling" data-a2a-url="./../../../2021/12/07/blender/index.html" data-a2a-title="Blender 3D Modeling"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introduction</title>
+		<link>./../../../2021/12/04/hello-world/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Dec 2021 21:36:32 +0000</pubDate>
+				<category><![CDATA[3D Model]]></category>
+		<category><![CDATA[Blender]]></category>
+		<category><![CDATA[Computer Language]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[Website]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress5.8. This is my first post. So let&#8217;s start with self introduction. My name is Cheav Rotharin, I&#8217;m 20 years old and currently I&#8217;m studying at AIC PP. Below is the program and skill that I had learned]]></description>
+										<content:encoded><![CDATA[
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">Welcome to WordPress5.8. This is my first post. So let&#8217;s start with self introduction.</p>
+
+
+
+<p class="has-black-color has-cyan-bluish-gray-background-color has-text-color has-background has-medium-font-size">My name is Cheav Rotharin, I&#8217;m 20 years old and currently I&#8217;m studying at AIC PP.</p>
+
+
+
+<p class="has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-medium-font-size">Below is the program and skill that I had learned</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="756" height="554" src="./../../../wp-content/uploads/2021/12/Screenshot-722.png" alt="" data-id="21" data-full-url="./../../../wp-content/uploads/2021/12/Screenshot-722.png" data-link="./../../../2021/12/04/hello-world/screenshot-722/index.html" class="wp-image-21" srcset="./../../../wp-content/uploads/2021/12/Screenshot-722.png 756w, ./../../../wp-content/uploads/2021/12/Screenshot-722-300x220.png 300w" sizes="(max-width: 756px) 100vw, 756px" /></figure></li></ul></figure>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=.%2F2021%2F12%2F04%2Fhello-world%2F&amp;linkname=Introduction" title="WordPress" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F04%2Fhello-world%2F&#038;title=Introduction" data-a2a-url="./../../../2021/12/04/hello-world/index.html" data-a2a-title="Introduction"></a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
