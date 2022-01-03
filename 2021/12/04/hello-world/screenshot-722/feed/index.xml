@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for CrTr	</title>
-	<atom:link href="http://127.0.0.1/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	Comments on: Screenshot-722	</title>
+	<atom:link href="http://127.0.0.1/wordpress/2021/12/04/hello-world/screenshot-722/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Welcome to my WordPress site</description>
-	<lastBuildDate>Mon, 03 Jan 2022 05:46:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Dec 2021 06:28:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
