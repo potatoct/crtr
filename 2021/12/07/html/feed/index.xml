@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: HTML	</title>
-	<atom:link href="http://127.0.0.1/wordpress/2021/12/07/html/feed/" rel="self" type="application/rss+xml" />
+	Comments on: HTML &#038; CSS	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Welcome to my website</description>
-	<lastBuildDate>Tue, 28 Dec 2021 14:25:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Jan 2022 01:52:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 </channel>
 </rss>
