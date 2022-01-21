@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Welcome to my website</description>
-	<lastBuildDate>Mon, 17 Jan 2022 02:09:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jan 2022 01:29:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,232 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>WordPress5.8 on GitHub</title>
-		<link>./../../../2021/12/28/wordpress-on-github/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 28 Dec 2021 13:18:03 +0000</pubDate>
-				<category><![CDATA[PC]]></category>
-		<category><![CDATA[Website]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=235</guid>
-
-					<description><![CDATA[Currently this website is hosting on GitHub for free, because GitHub is an opensource platform. Notice: The website is a static website and not a dynamic website, this can be use for experimental and to test out WordPress without spending money. Not recommended for Business or online store. Below is the not so easy way &#8230; <p class="link-more"><a href="./../../../2021/12/28/wordpress-on-github/index.html" class="more-link">Read more<span class="screen-reader-text"> "WordPress5.8 on GitHub"</span></a></p>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-nv-dark-bg-color has-nv-light-bg-background-color has-text-color has-background has-medium-font-size">Currently this website is hosting on <a href="https://github.com/">GitHub</a> for free, because GitHub is an opensource platform. </p>
-
-
-
-<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: The website is a <strong><em>static</em></strong> website and <strong><em>not </em></strong>a <strong><em>dynamic </em></strong>website, this can be use for experimental and to test out  WordPress without spending money. Not recommended for Business or online store.</p>
-
-
-
-<p class="has-text-align-center has-nv-dark-bg-color has-nv-light-bg-background-color has-text-color has-background has-medium-font-size">Below is the <s>not so</s> easy way for creating your own website without coding=&gt;</p>
-
-
-
-<p class="has-drop-cap has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step1</span></strong>: Install<strong><em> WordPress 5.8</em></strong> on your local machine <strong><em>(offline)</em></strong>. <a href="https://bitnami.com/stack/wordpress/installer">Here is the link for the download</a>, and I recommend you to watch the <strong><em>tutorial</em></strong> first before doing the installation because it <strong><em>will help you</em></strong> understand the process, and <a href="https://www.youtube.com/watch?v=wWVbiGc6XKk">here is the link of tutorial</a>.</p>
-
-
-
-<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Please save the <strong><em>Username and Password</em></strong>.</p>
-
-
-
-<p class="has-drop-cap has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step2</span></strong>: Install Simply Static on you WordPress site, this plugin allow you to generate and download static HTML file for your website<strong><em> don&#8217;t worry no coding involve here, you don&#8217;t need to learn HTML</em></strong>. Here is how you install it=&gt; </p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png" alt="" class="wp-image-630 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-760-1-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">First go to WordPress</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="79" src="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png" alt="" class="wp-image-637 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-300x23.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-763-1-1024x79-1-768x59.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Next type <strong><em>login</em></strong> behind wordpress/</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png" alt="" class="wp-image-641 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-764-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Login with <strong><em>Username and Password</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png" alt="" class="wp-image-645 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-765-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Hover over <strong><em>Plugin </em></strong>and click <strong><em>Add New</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png" alt="" class="wp-image-649 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-766-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Search for <strong><em>Simply Static</em></strong>, <strong><em>install </em></strong>and <strong><em>activate</em></strong> it<strong><em> </em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1.png" alt="" class="wp-image-657 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-769-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Hover over Simply Static click <strong><em>Setting, </em></strong>Under general unchecked everything except <strong><em>these 2 </em></strong>and <strong><em>SAVE CHANGES</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1.png" alt="" class="wp-image-653 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-767-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Finally go to <strong><em>Simply Static</em></strong>, click <strong><em>Generate Static File</em></strong>s, wait for loading, click <strong><em> Click here to download</em></strong></p>
-</div></div>
-
-
-
-<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Internet connection is required for the download and don&#8217;t forget to extract the file</p>
-
-
-
-<p class="has-drop-cap has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step3</span></strong>: Hosting, you need GitHub account and you can create it for free and <a href="https://www.youtube.com/watch?v=tTvLl138ky4">here is how you do it</a>. After login to your account, create a <strong><em>Repository</em></strong>=&gt;</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-770-1-1024x576.png" alt="" class="wp-image-658 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-770-1-1024x576.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1-768x432.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-770-1.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Click on <strong><em>GitHub</em></strong> <strong><em>logo</em></strong> and click <strong><em>New</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1.png" alt="" class="wp-image-665 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-772-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size">Fill the <strong><em>Information</em></strong>, check <strong><em>Public</em></strong>, check <strong><em>Add a README file</em></strong>, click <strong><em>Create repository</em></strong></p>
-</div></div>
-
-
-
-<p class="has-nv-site-bg-color has-neve-link-color-background-color has-text-color has-background" style="font-size:15px">Notice: Name and Public is important</p>
-
-
-
-<p class="has-drop-cap has-nv-dark-bg-color has-neve-link-hover-color-background-color has-text-color has-background has-medium-font-size"><strong><span style="text-decoration: underline;">Step4A</span></strong>: <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">Here is how it work</a>. Next <strong><em><a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">clone the repository</a></em></strong> to your local machine, where we can <strong><em>upload</em></strong> your <strong><em>Static HTML file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account. Below is how you push (upload)=&gt; </p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png" alt="" class="wp-image-668 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Open <strong><em>GitHub desktop </em></strong>and click on <strong><em>Show in Explorer</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="524" src="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png" alt="" class="wp-image-671 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1-300x205.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Copy all the <strong><em>static file</em></strong> and paste it here and close the folder</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png" alt="" class="wp-image-674 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Fill <strong><em>information</em></strong> before <strong><em>Commit to main</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="528" src="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png" alt="" class="wp-image-677 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Click on <strong><em>Push origin</em></strong> and <strong><em>wait</em></strong> until complete and everything is done</p>
-</div></div>
-
-
-
-<p class="has-drop-cap has-medium-font-size"><strong><span style="text-decoration: underline;">Step4B</span></strong>:  <strong><em>Install GitHub desktop</em></strong> and <strong><em>pair</em></strong> it with your <strong><em>GitHub account</em></strong>, <a href="https://www.youtube.com/watch?v=xuq73UJrbwg&amp;list=LL&amp;index=1">Here is how it work</a>. Next <strong><em>create local repository</em></strong>, where you can <strong><em>upload</em></strong> your <strong><em>Static file</em></strong> and <strong><em>then push</em></strong> (upload) it to your GitHub account.  Below is how you <strong><em>create local repository</em></strong>=&gt; </p>
-
-
-
-<p class="has-text-align-left has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px"> Notice: If you go with <strong><em>Step4B </em></strong>then you can <strong><em>skip Step3</em></strong>. </p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="532" src="./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1.png" alt="" class="wp-image-680 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-780-768x532-1-300x208.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Click on <strong><em>down arrow</em></strong>, hover over <strong><em>Add</em></strong>, and click on <strong><em>Create new  repository</em></strong> </p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="529" src="./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1.png" alt="" class="wp-image-683 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-781-768x529-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Fill in <strong><em>information</em></strong>, check <strong><em>README</em></strong>, and click <strong><em>Create  repository</em></strong> </p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1.png" alt="" class="wp-image-686 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-783-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size"> Click on <strong><em>Publish  <strong><em>repository</em></strong></em></strong> and <strong><em>wait</em></strong> until complete</p>
-</div></div>
-
-
-
-<p class="has-text-align-center has-medium-font-size">Here how is you push (upload)=&gt;</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="527" src="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png" alt="" class="wp-image-668 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-773-2-768x527-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Open <strong><em>GitHub desktop </em></strong>and click on <strong><em>Show in Explorer</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="524" src="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png" alt="" class="wp-image-671 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-774-768x524-1-300x205.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Copy all the <strong><em>static file</em></strong> and paste it here and close the folder</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="531" src="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png" alt="" class="wp-image-674 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-776-768x531-1-300x207.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Fill <strong><em>information</em></strong> before <strong><em>Commit to main</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="768" height="528" src="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png" alt="" class="wp-image-677 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1.png 768w, ./../../../wp-content/uploads/2021/12/Screenshot-779-1-768x528-1-300x206.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Click on <strong><em>Push origin</em></strong> and <strong><em>wait</em></strong> until complete and everything is done</p>
-</div></div>
-
-
-
-<p class="has-drop-cap has-medium-font-size"><strong><span style="text-decoration: underline;">Step5/Final step</span></strong>: after push (upload) static file is complete, go the <strong><em>GitHub</em></strong> <strong><em>repository</em></strong> to change some setting required for hosting a web site=&gt;</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1.png" alt="" class="wp-image-690 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-788-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Go to <strong><em>repository</em></strong> and click on <strong><em>setting</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1.png" alt="" class="wp-image-694 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-789-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Go down to <strong><em>GitHub Pages</em></strong> and click on <strong><em>Click it out here</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1.png" alt="" class="wp-image-702 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-791-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Click on <strong><em>None</em></strong> and choose <strong><em>main</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1.png" alt="" class="wp-image-706 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-792-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Click on <strong><em>Save</em></strong> and <strong><em>wait</em></strong></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1.png" alt="" class="wp-image-710 size-full" srcset="./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1.png 1024w, ./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1-300x169.png 300w, ./../../../wp-content/uploads/2021/12/Screenshot-794-1024x576-1-768x432.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">When the link turn <strong><em>green</em></strong> it&#8217;s <strong><em>ready</em></strong> </p>
-</div></div>
-
-
-
-<p class="has-white-color has-vivid-red-background-color has-text-color has-background" style="font-size:15px">Notice: When the link is <strong><em>green </em></strong>click on it to see if it work, <strong><em>you don&#8217;t need custom domain</em></strong> (you can buy one if you need it).</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Photoshop and Gimp</title>
+		<title>Gimp</title>
 		<link>./../../../2021/12/28/photoshop-and-gimp/index.html</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -261,64 +36,10 @@
 				<category><![CDATA[PC]]></category>
 		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=88</guid>
 
-					<description><![CDATA[Photoshop and Gimp are image editor program with similar capability. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how &#8230; <p class="link-more"><a href="./../../../2021/12/28/photoshop-and-gimp/index.html" class="more-link">Read more<span class="screen-reader-text"> "Photoshop and Gimp"</span></a></p>]]></description>
+					<description><![CDATA[Gimp are image editor program with similar capability to Photoshop. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how&#8230;&#160;<a href="./../../../2021/12/28/photoshop-and-gimp/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Gimp</span></a>]]></description>
 										<content:encoded><![CDATA[
-<p class="has-medium-font-size">Photoshop and Gimp are image editor program with similar capability. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how they work is a complete different story.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>MIG 25</title>
-		<link>./../../../2021/12/28/new-model/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 28 Dec 2021 07:04:50 +0000</pubDate>
-				<category><![CDATA[3D Model]]></category>
-		<category><![CDATA[Blender]]></category>
-		<category><![CDATA[PC]]></category>
-		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=203</guid>
-
-					<description><![CDATA[The latest project is finish and below is the rendered image of the MIG-25 Foxbat MIG-25 Foxbat]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">The latest project is finish and below is the rendered image of the MIG-25 Foxbat</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/01/0.1-1024x576.png" alt="" class="wp-image-403 size-full" srcset="./../../../wp-content/uploads/2022/01/0.1-1024x576.png 1024w, ./../../../wp-content/uploads/2022/01/0.1-300x169.png 300w, ./../../../wp-content/uploads/2022/01/0.1-768x432.png 768w, ./../../../wp-content/uploads/2022/01/0.1-1536x864.png 1536w, ./../../../wp-content/uploads/2022/01/0.1-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-neve-text-color-color has-neve-link-color-background-color has-text-color has-background has-medium-font-size"> MIG-25 Foxbat </p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2-1024x576.jpg" alt="" class="wp-image-406 size-full" srcset="./../../../wp-content/uploads/2021/12/0.2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/0.2.2-1024x576.jpg" alt="" class="wp-image-407" srcset="./../../../wp-content/uploads/2021/12/0.2.2-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/0.2.2-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/0.2.2-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/0.2.2-1536x864.jpg 1536w, ./../../../wp-content/uploads/2021/12/0.2.2-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p class="has-nv-dark-bg-color has-neve-link-color-background-color has-text-color has-background has-medium-font-size"> These are the other image before the final sense </p>
-</div></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>WordPress</title>
-		<link>./../../../2021/12/08/wordpress/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 08 Dec 2021 00:11:09 +0000</pubDate>
-				<category><![CDATA[PC]]></category>
-		<category><![CDATA[Website]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=100</guid>
-
-					<description><![CDATA[WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack &#8230; <p class="link-more"><a href="./../../../2021/12/08/wordpress/index.html" class="more-link">Read more<span class="screen-reader-text"> "WordPress"</span></a></p>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">WordPress is also a web site builder but the way it work is completely different form HTML and CSS. WordPress is just like MS office program but for creating web site and it is beginner friendly since you do have to learn HTML or CSS just to create a simple web page, you just drack and drop write some something down and done. But you still need to buy a domain and hosting before you can start with WordPress, there are also a way to install WP offline on local host machine that allow you to get start without domain and hosting but you need to find the way to get it online. </p>
-]]></content:encoded>
+<p class="has-medium-font-size">Gimp are image editor program with similar capability to Photoshop. The different between them is that Photoshop is premium and Gimp is Free, and also Photoshop is more reliable the Gimp. The interface of the Photoshop are clean looking while Gimp interface is more customizable and less refine. the functionality are mostly similar but how they work is a complete different story. <a href="https://www.gimp.org/" target="_blank" rel="noreferrer noopener">Learn more about gimp here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&amp;linkname=Gimp" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F28%2Fphotoshop-and-gimp%2F&#038;title=Gimp" data-a2a-url="./../../../2021/12/28/photoshop-and-gimp/index.html" data-a2a-title="Gimp"></a></p>]]></content:encoded>
 					
 		
 		
@@ -334,17 +55,17 @@
 		<category><![CDATA[Website]]></category>
 		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=83</guid>
 
-					<description><![CDATA[HTML Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine &#8230; <p class="link-more"><a href="./../../../2021/12/07/html/index.html" class="more-link">Read more<span class="screen-reader-text"> "HTML &#038; CSS"</span></a></p>]]></description>
+					<description><![CDATA[HTML Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine&#8230;&#160;<a href="./../../../2021/12/07/html/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">HTML &#038; CSS</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2>HTML</h2>
 
 
 
-<p class="has-medium-font-size">Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together to create something, and the way tag work to together is by working under each other. Below is the list of HTML tags:</p>
+<p class="has-medium-font-size">Html is a language for building web site, basically it is the back bone of the web site without it the web simply wont work. The way HTML work is just like a lose sandwich if you start with a bread you need to stop with a bread too. Html tag can be combine together to create something, and the way tag work to together is by working under each other. <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer noopener">Learn more about HTML here</a>, Below is the list of HTML tags:</p>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="659" height="724" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png" alt="" class="wp-image-628" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-1-273x300.png 273w" sizes="(max-width: 659px) 100vw, 659px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png" alt="" class="wp-image-628" width="817" height="896" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-1-273x300.png 273w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
 
 
 
@@ -352,162 +73,8 @@
 
 
 
-<p class="has-medium-font-size">CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage. CSS work as you look on a element target a part of the HTML and then you use the code to change the target to be what ever you want. </p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Blender Animation</title>
-		<link>./../../../2021/12/07/79/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 07 Dec 2021 13:31:19 +0000</pubDate>
-				<category><![CDATA[Blender]]></category>
-		<category><![CDATA[PC]]></category>
-		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=79</guid>
-
-					<description><![CDATA[I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now. Here is an M829-APFSDS round fire from 120mm-L44]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">I was getting start with animation to but my pc can only render low resolution video so I just stick with basic and very simple animation for now.</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><video controls src="./../../../wp-content/uploads/2021/12/UHD-610-2-1.mp4"></video></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Here is an M829-APFSDS round fire from 120mm-L44</p>
-</div></div>
-]]></content:encoded>
-					
-		
-		<enclosure url="./../../../wp-content/uploads/2021/12/UHD-610-2-1.mp4" length="595572" type="video/mp4" />
-
-			</item>
-		<item>
-		<title>Blender Sculpturing</title>
-		<link>./../../../2021/12/07/blender-sculpturing/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 07 Dec 2021 13:21:22 +0000</pubDate>
-				<category><![CDATA[Blender]]></category>
-		<category><![CDATA[PC]]></category>
-		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=76</guid>
-
-					<description><![CDATA[For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I think I need more &#8230; <p class="link-more"><a href="./../../../2021/12/07/blender-sculpturing/index.html" class="more-link">Read more<span class="screen-reader-text"> "Blender Sculpturing"</span></a></p>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">For sculpturing is basically 3D drawing a spear in to organic or any life form that are generally smooth. and again this time I lack in gear so I can&#8217;t achieve a good result on sculpture yet. But I have working on a model using mouse, it is possible but I think I need more practice.</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="369" src="./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-1024x369.png" alt="" class="wp-image-461 size-full" srcset="./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-1024x369.png 1024w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-300x108.png 300w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-768x276.png 768w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1-1536x553.png 1536w, ./../../../wp-content/uploads/2021/12/0-1-2-2048x737-1.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Here is my sculpture model</p>
-</div></div>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Blender 3D Modeling</title>
-		<link>./../../../2021/12/07/blender/index.html</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 07 Dec 2021 06:41:48 +0000</pubDate>
-				<category><![CDATA[3D Model]]></category>
-		<category><![CDATA[Blender]]></category>
-		<category><![CDATA[PC]]></category>
-		<guid isPermaLink="false">http://127.0.0.1:81/wordpress/?p=23</guid>
-
-					<description><![CDATA[For blender I&#8217;m currently using blender 2.93.1 and I can turn a cube to any object as long as I can imagine it shape and size or using a blueprint to turn a 2D image in to a complete 3D object. Below is my progress in 3D modeling: This is my first try to creating &#8230; <p class="link-more"><a href="./../../../2021/12/07/blender/index.html" class="more-link">Read more<span class="screen-reader-text"> "Blender 3D Modeling"</span></a></p>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">For blender I&#8217;m currently using blender 2.93.1 and I can turn a cube to any object as long as I can imagine it shape and size or using a blueprint to turn a 2D image in to a complete 3D object. Below is my progress in 3D modeling:</p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g00-1-1536x864-1-1024x576.jpg" alt="" class="wp-image-563 size-full" srcset="./../../../wp-content/uploads/2021/12/g00-1-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g00-1-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g00-1-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g00-1-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">This is my first try to creating a grass field</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g0-2-1536x864-1-1024x576.jpg" alt="" class="wp-image-568 size-full" srcset="./../../../wp-content/uploads/2021/12/g0-2-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g0-2-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g0-2-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g0-2-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Second try</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g-1-1536x864-1-1024x576.jpg" alt="" class="wp-image-573 size-full" srcset="./../../../wp-content/uploads/2021/12/g-1-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g-1-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g-1-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g-1-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Third try looking good</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g3-1-1536x864-1-1024x576.jpg" alt="" class="wp-image-578 size-full" srcset="./../../../wp-content/uploads/2021/12/g3-1-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g3-1-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g3-1-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g3-1-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Trying different angle</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g4-1536x864-1-1024x576.jpg" alt="" class="wp-image-583 size-full" srcset="./../../../wp-content/uploads/2021/12/g4-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g4-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g4-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g4-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Adding some thing in the background</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g5-2-1536x864-1-1024x576.jpg" alt="" class="wp-image-588 size-full" srcset="./../../../wp-content/uploads/2021/12/g5-2-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g5-2-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g5-2-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g5-2-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Editing the lighting</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g12-2-1536x864-1-1024x576.jpg" alt="" class="wp-image-598 size-full" srcset="./../../../wp-content/uploads/2021/12/g12-2-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g12-2-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g12-2-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g12-2-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Adding more stuff to create a simple environment</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/c2.1-1536x864-1-1024x576.jpg" alt="" class="wp-image-519 size-full" srcset="./../../../wp-content/uploads/2021/12/c2.1-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/c2.1-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/c2.1-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/c2.1-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Creating a cloud</p>
-</div></div>
-
-
-
-<p></p>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536-1-1024x1024.jpg" alt="" class="wp-image-535 size-full" srcset="./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536-1-1024x1024.jpg 1024w, ./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536-1-300x300.jpg 300w, ./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536-1-150x150.jpg 150w, ./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536-1-768x768.jpg 768w, ./../../../wp-content/uploads/2021/12/f0.0B-2-1536x1536-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Creating trees</p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:63% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2021/12/g7-3-1536x864-1-1024x576.jpg" alt="" class="wp-image-593 size-full" srcset="./../../../wp-content/uploads/2021/12/g7-3-1536x864-1-1024x576.jpg 1024w, ./../../../wp-content/uploads/2021/12/g7-3-1536x864-1-300x169.jpg 300w, ./../../../wp-content/uploads/2021/12/g7-3-1536x864-1-768x432.jpg 768w, ./../../../wp-content/uploads/2021/12/g7-3-1536x864-1.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Mountain </p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:65% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="613" src="./../../../wp-content/uploads/2021/12/cropped-mt3-3-3-1-scaled-1-1024x613.jpg" alt="" class="wp-image-755 size-full" srcset="./../../../wp-content/uploads/2021/12/cropped-mt3-3-3-1-scaled-1-1024x613.jpg 1024w, ./../../../wp-content/uploads/2021/12/cropped-mt3-3-3-1-scaled-1-300x180.jpg 300w, ./../../../wp-content/uploads/2021/12/cropped-mt3-3-3-1-scaled-1-768x460.jpg 768w, ./../../../wp-content/uploads/2021/12/cropped-mt3-3-3-1-scaled-1-1536x920.jpg 1536w, ./../../../wp-content/uploads/2021/12/cropped-mt3-3-3-1-scaled-1.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-medium-font-size">Crystal field</p>
-</div></div>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-]]></content:encoded>
+<p class="has-medium-font-size">CSS is similar to HTML they both are use in web site, however CSS is like the outside skin over the HTML. CSS are use as a style for the Web page while HTML provide the text and functionality, CSS provide the color, style, positioning, and the effect for the webpage. CSS work as you look on a element target a part of the HTML and then you use the code to change the target to be what ever you want. <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer noopener">Learn more about CSS here</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=.%2F2021%2F12%2F07%2Fhtml%2F&amp;linkname=HTML%20%26%20CSS" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=.%2F2021%2F12%2F07%2Fhtml%2F&#038;title=HTML%20%26%20CSS" data-a2a-url="./../../../2021/12/07/html/index.html" data-a2a-title="HTML &amp; CSS"></a></p>]]></content:encoded>
 					
 		
 		
