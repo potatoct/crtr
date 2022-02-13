@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>./../../../wp-content/uploads/2022/01/cropped-profile2-32x32.png</url>
@@ -48,7 +48,7 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png" alt="" class="wp-image-628" width="817" height="896" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-1-273x300.png 273w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img src="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png" alt="" class="wp-image-628" width="817" height="896" srcset="./../../../wp-content/uploads/2021/12/Screenshot-753-1-1.png 659w, ./../../../wp-content/uploads/2021/12/Screenshot-753-1-1-273x300.png 273w" sizes="(max-width: 817px) 100vw, 817px" /></figure>
 
 
 
